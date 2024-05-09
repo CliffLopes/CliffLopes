@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cliff-lopes-b75a95209) 
-[![Website] (https://img.shields.io/website)](https://clifflopes.super.site/)
+[![Website] (https://img.shields.io/badge/https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d75f3f6c-96de-4b82-9fa4-1c87d7691f4e/brunch/w=128,quality=90,fit=scale-down)](https://clifflopes.super.site/)
 
 
 # 💻 Tech Stack:
